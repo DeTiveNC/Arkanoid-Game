@@ -28,13 +28,13 @@
   const $sprite = document.querySelector("#sprite");
   const $bricks = document.querySelector("#bricks");
 
-  canvas.width = 448;
-  canvas.height = 400;
+  canvas.width = 750;
+  canvas.height = 500;
 
   /* Variables de nuestro juego */
 
   /* VARIABLES DE LA PELOTA */
-  const ballRadius = 3;
+  const ballRadius = 5;
   // posicion de la pelota
   let x = canvas.width / 2;
   let y = canvas.height - 30;
@@ -55,8 +55,8 @@
   let leftPressed = false;
 
   /* VARIABLES DE LOS LADRILLOS */
-  const brickRowCount = 6;
-  const brickColumnCount = 13;
+  const brickRowCount = 10;
+  const brickColumnCount = 22;
   const brickWidth = 32;
   const brickHeight = 16;
   const brickPadding = 0;
