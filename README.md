@@ -12,4 +12,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/DeTiveNC/Spr
 
 ## Authors
 
- - [MiduDev](https://github.com/midudev) - _Built Game_
+ - [DeTiveNC](https://github.com/detivenc) - _Built Game_
