@@ -2,7 +2,7 @@
   Arknoid Game on Vanilla JS
 </h1>
 <p align="center">
-  This game is to contribute to the classic game Arkanoid on Vanilla JS.
+  This game is to contribute to the classic game Arkanoid on Vanilla JS. The game was created on the hands of MiduDev(https://github.com/midudev) a great fullstack developer. 
 </p>
 
 
